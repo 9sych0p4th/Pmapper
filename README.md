@@ -21,3 +21,5 @@ Modo de execução:
     ./Pmapper -sV 192.168.0.1 -p 40-70
     ./Pmapper -sTn 192.168.0.1 -p 70
     ./Pmapper -sSn 192.168.0.1 -p low -o output.txt
+    
+new release soon.....
